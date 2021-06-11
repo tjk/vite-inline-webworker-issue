@@ -1,4 +1,4 @@
-# vite-inline-webworker-issue
+# vite-inline-webworker-issue (https://github.com/vitejs/vite/issues/3768)
 
 ```
 yarn
